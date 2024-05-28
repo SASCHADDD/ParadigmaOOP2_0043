@@ -42,8 +42,8 @@ public:
 	}
 };
 int main() {
-	budi a(112);
-    
+	budi a(12);
+
 	return 0;
 }
 
